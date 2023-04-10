@@ -44,4 +44,5 @@ new_df <- slice(iris, (1:15))
 
 # Exercicio 10
 RSiteSearch("filter")
+
 filter(new_df, Sepal.Length	>	5)
